@@ -1,4 +1,4 @@
-package mate.jdbc.model;
+package taxi.jdbc.model;
 
 import java.util.Objects;
 
